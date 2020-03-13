@@ -1,2 +1,2 @@
-# website
-This is for the website of wartime aide
+# Website
+This is the respondatory for the Wartime Aide website.
