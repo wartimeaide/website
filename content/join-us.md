@@ -2,7 +2,7 @@
 title: "Join Us"
 description: "How to start a Wartime Aide chapter"
 slug: "join-us"
-image: pic09.jpg
+image: backgrounds/5.jpg
 keywords: ""
 categories: 
     - ""

@@ -2,7 +2,7 @@
 title: "Chapter Program"
 description: "This program allows our chapters to become more empathetic towards the issues facing refugees and allows them to put this newfound understanding into action."
 slug: "chapter-program"
-image: pic07.jpg
+image: backgrounds/7.jpg
 keywords: ""
 categories: 
     - ""
@@ -13,6 +13,7 @@ draft: false
 
 ## The Role of Chapters
 High school chapters play an integral role in Wartime Aide and follow a two step process:
+
 1. Educate themselves and other high schoolers about refugee issues using Wartime Aide's curriculum and discussion guides.
 2. Reach out to teenage refugees coming to their school and their community in order to build a peer-support network.
 

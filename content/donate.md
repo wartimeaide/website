@@ -2,7 +2,7 @@
 title: "Donate"
 description: "100% of Your Donation Will Go Towards Wartime Aide's mission"
 slug: "donate"
-image: pic10.jpg
+image: backgrounds/1.jpg
 keywords: ""
 categories: 
     - ""

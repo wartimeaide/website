@@ -6,7 +6,7 @@ title = "Wartime Aide"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "UA-69113723-16"
 
 # Enter your disqus shortname to enable comments
 disqusShortname = ""
@@ -38,8 +38,8 @@ disqusShortname = ""
 
   # Navigation Section
   [params.navigation]
-    title = "Wartime"
-    subtitle = "Aide"
+    title = "Wartime Aide"
+    subtitle = "Education is Power"
     menu = "Menu"
     # Optional logo as brand stored in img/
 #    logo = "favicon.jpg"
@@ -188,13 +188,13 @@ disqusShortname = ""
     [[params.contact.address]]
         title = "Address"
         street = "247 Marlborough Street"
-        city = "Boston, Massachusetts 02145"
+        city = "Boston, MA 02459"
         country = "U.S.A."
 
   # Footer section
   [params.footer]
     enable = true
-    copyright = "Wartime Aide"
+    copyright = "Wartime Aide Contributors"
 
     # Uses font awesome icons
     [[params.footer.social]]

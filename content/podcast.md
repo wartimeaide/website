@@ -2,7 +2,7 @@
 title: "Podcast"
 description: "This podcast will be an interview-style show which includes guests such as refugees, experts on refugee issues and more."
 slug: "podcast"
-image: pic07.jpg
+image: backgrounds/8.jpg
 keywords: ""
 categories: 
     - ""
