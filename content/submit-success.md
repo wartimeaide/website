@@ -7,3 +7,7 @@ draft: false
 ---
 
 Thanks for your message! We will contact you in 3 days ;)
+
+{{< button href="/" target="_self" class="" >}}
+Back to Home
+{{< /button >}}
