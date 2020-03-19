@@ -59,18 +59,6 @@ Bridgette manages Wartime Aide's Instagram, Twitter, and Facebook accounts. She 
 
 {{< divider >}}
 
-{{< image src="/img/members/cam.moini.jpg" alt="Cam Moini" height="400px" width="300px" float="left" >}}
-## Cam Moini
-- Contact Manager
-
-If you have any questions about Wartime Aide and how we operate, Cam will gladly answer all of your questions. Also, Cam will put you in touch with one of our team managers and supervisors. 
-
-{{< button href="mailto:info@wartimeaide.org" target="_blank" >}}
-Contact Me
-{{< /button >}}
-
-{{< divider >}}
-
 {{< image src="/img/members/finn.scully.jpg" alt="Finn Scully" height="400px" width="300px" float="left" >}}
 ## Finn Scully
 - Photographer/Cinematographer
