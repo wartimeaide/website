@@ -1,6 +1,6 @@
 # Site settings
 #baseURL = "https://wartimeaide.org"
-baseURL = ""
+baseURL = "/"
 languageCode = "en-us"
 title = "Wartime Aide"
 theme = "forty"
