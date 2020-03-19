@@ -197,7 +197,7 @@ disqusShortname = ""
   # Footer section
   [params.footer]
     enable = true
-    copyright = "Wartime Aide Contributors"
+    copyright = "Wartime Aide Inc."
 
     # Uses font awesome icons
     [[params.footer.social]]
