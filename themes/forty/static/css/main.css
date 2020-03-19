@@ -2062,6 +2062,15 @@ input[type=radio] + label:before {
   padding: 0;
 }
 
+/* Divider */
+.divider {
+  background: rgba(255, 255, 255, 0.5);
+  height: 1px;
+  width: 100%;
+  margin: 2em 0;
+  box-shadow: 0 0 5px;
+}
+
 /* Icon */
 .icon {
   text-decoration: none;
@@ -2152,6 +2161,18 @@ a.icon.alt:active:before {
   }
 }
 
+.float--left {
+  float: left;
+  margin: 0 1.5em 1.25em 0;
+  top: 0.25em;
+}
+
+.float--right {
+  float: right;
+  margin: 0 0 1.25em 1.5em;
+  top: 0.25em;
+}
+
 /* List */
 ol {
   list-style: decimal;
@@ -2163,7 +2184,7 @@ ol li {
 }
 
 ul {
-  list-style: disc;
+  list-style: disc inside;
   margin: 0 0 2em 0;
   padding-left: 1em;
 }

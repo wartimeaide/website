@@ -47,6 +47,9 @@ disqusShortname = ""
     [[params.navigation.links]]
       name = "Home"
       url = "/"
+    [[params.navigation.links]]
+       name = "Members"
+       url = "/members"
 
     [[params.navigation.links]]
       name = "Podcast"
