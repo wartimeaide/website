@@ -1,2 +1,2 @@
 # Website
-This is the respondatory for the Wartime Aide website.
+This is the repo for the Wartime Aide website.

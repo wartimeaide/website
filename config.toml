@@ -1,5 +1,6 @@
 # Site settings
-baseURL = "https://wartimeaide.org"
+#baseURL = "https://wartimeaide.org"
+baseURL = ""
 languageCode = "en-us"
 title = "Wartime Aide"
 theme = "forty"
@@ -37,27 +38,31 @@ disqusShortname = ""
 
   # Navigation Section
   [params.navigation]
-    title = "Home"
-    subtitle = "By HTML5 Up"
+    title = "Wartime"
+    subtitle = "Aide"
     menu = "Menu"
     # Optional logo as brand stored in img/
-    # logo = "logo.png"
+#    logo = "favicon.jpg"
 
     [[params.navigation.links]]
       name = "Home"
       url = "/"
 
     [[params.navigation.links]]
-      name = "Who We Are"
-      url = "blogs/who-we-are"
-
-    [[params.navigation.links]]
       name = "Podcast"
-      url = "blogs/podcast"
+      url = "/podcast"
 
     [[params.navigation.links]]
       name = "Chapter Program"
-      url = "blogs/chapter-program"
+      url = "/chapter-program"
+
+    [[params.navigation.links]]
+        name = "Who We Are"
+        url = "/who-we-are"
+
+    [[params.navigation.links]]
+      name = "Join Us"
+      url = "/join-us"
 
 #    [[params.navigation.links]]
 #      name = "Elements"
@@ -73,12 +78,12 @@ disqusShortname = ""
     # Button Style 1
     [[params.navigation.button1]]
       name = "Donate"
-      url = "blogs/donate"
+      url = "/donate"
 
     # Button Style 2
     [[params.navigation.button2]]
-      name = "Join Us"
-      url = "blogs/join-us"
+      name = "Contact Us"
+      url = "/contact-us"
 
 
   # Banner section
@@ -98,32 +103,32 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Our Mission"
       subtitle = "Our mission is to educate high schoolers about refugee issues and to help them reach out to refugees in their community."
-      image = "backgrounds/1.jpg"
-      url = "blogs/chapter-program"
+      image = "backgrounds/7.jpg"
+      url = "/chapter-program"
 
     [[params.tiles.showcase]]
       title = "Who We Are"
       subtitle = "A brief summary of our organization"
-      image = "backgrounds/2.jpg"
-      url = "blogs/who-we-are"
+      image = "backgrounds/6.jpg"
+      url = "/who-we-are"
 
 #    [[params.tiles.showcase]]
 #      title = "Donate"
 #      subtitle = "100% of Your Donation Will Go Towards Wartime Aide's mission"
 #      image = "backgrounds/1.jpg"
-#      url = "blogs/donate"
+#      url = "/donate"
 
     [[params.tiles.showcase]]
       title = "Podcast"
-      subtitle = ""
-      image = "backgrounds/1.jpg"
-      url = "blogs/podcast"
+      subtitle = "Our podcast is comming soon!"
+      image = "backgrounds/8.jpg"
+      url = "/podcast"
 
     [[params.tiles.showcase]]
         title = "Join Us"
-        subtitle = "How to start a Wartime Aide chapter"
-        image = "backgrounds/1.jpg"
-        url = "blogs/join-us"
+        subtitle = "Learn how to start a Wartime Aide chapter"
+        image = "backgrounds/5.jpg"
+        url = "/join-us"
 
 #    [[params.tiles.showcase]]
 #      title = "Etiam"
@@ -147,7 +152,7 @@ disqusShortname = ""
     "Let us remember: One book, one pen, one child, and one teacher can change the world."
     """
     buttonText = "Donate"
-    url = "blogs/donate"
+    url = "/donate"
 
 
   # Contact section
@@ -181,10 +186,10 @@ disqusShortname = ""
 #    phone = "(000) 000-0000 x1234"
 
     [[params.contact.address]]
-    title = "Address"
-    street = "247 Marlborough Street"
-    city = "Boston, Massachusetts 02145"
-    country = "U.S.A."
+        title = "Address"
+        street = "247 Marlborough Street"
+        city = "Boston, Massachusetts 02145"
+        country = "U.S.A."
 
   # Footer section
   [params.footer]
