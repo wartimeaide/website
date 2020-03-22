@@ -41,11 +41,11 @@ Charlie shares the responsibility of managing the website. He manages the websit
 
 {{< divider >}}
 
-## Harper Staton-Todaro 
-- Director of Internal Affairs
+## Harper Staton-Todaro
+- Director of Chapters
 - Board Member
 
-Harper Staton-Todaro is the Director of Internal Affairs for War Time Aide. She assists with any issues that arise in the corporation. Harper also assists with fundraising and organizing other events. She is in charge of handling any problems anyone in the organization may have.
+Harper Staton-Todaro is the Director of Chapters for Wartime Aide. She create the curriculum for the chapter's.
 
 {{< divider >}}
 
