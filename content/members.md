@@ -33,8 +33,8 @@ Savvas manages all financial interactions within Wartime Aide and the collection
 
 {{< image src="/img/members/charles.ciampa.jpg" alt="Charles Ciampa" height="400px" width="300px" float="left" >}}
 ## Charles Ciampa
-- Secretary of Treasury
-- CFO (Chief Financial Officer)
+- CFO (Chief Information Officer)
+- IT Manager
 - Board member
 
 Charlie shares the responsibility of managing the website. He manages the website and all technology. If you are having any technical issues with our website, we would be glad to put you in touch with Charlie and our tech team.
