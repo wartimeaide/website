@@ -41,15 +41,6 @@ Charlie shares the responsibility of managing the website. He manages the websit
 
 {{< divider >}}
 
-{{< image src="/img/members/fionnula.mcdermott.jpeg" alt="Fionnula McDermott" height="400px" width="300px" float="left" >}}
-## Fionnula McDermott 
-- Director of Internal Affairs
-- Board Member
-
-Fionnuala McDermott is the Director of Internal Affairs for War Time Aide. She assists with any issues that arise in the corporation. Fionnuala also assists with fundraising and organizing other events. She is in charge of handling any problems anyone in the organization may have.
-
-{{< divider >}}
-
 {{< image src="/img/members/bridgette.schaad.jpg" alt="Bridgette Schaad" height="400px" width="300px" float="left" >}}
 ## Bridgette Schaad
 - Public Relations Manager
