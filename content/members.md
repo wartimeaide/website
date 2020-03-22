@@ -33,7 +33,7 @@ Savvas manages all financial interactions within Wartime Aide and the collection
 
 {{< image src="/img/members/charles.ciampa.jpg" alt="Charles Ciampa" height="400px" width="300px" float="left" >}}
 ## Charles Ciampa
-- CFO (Chief Information Officer)
+- CIO (Chief Information Officer)
 - IT Manager
 - Board member
 
