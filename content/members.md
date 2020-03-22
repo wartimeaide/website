@@ -41,7 +41,6 @@ Charlie shares the responsibility of managing the website. He manages the websit
 
 {{< divider >}}
 
-{{< image src="/img/members/fionnula.mcdermott.jpeg" alt="Fionnula McDermott" height="400px" width="300px" float="left" >}}
 ## Harper Staton-Todaro 
 - Director of Internal Affairs
 - Board Member
