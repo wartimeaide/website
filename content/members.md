@@ -37,7 +37,7 @@ Savvas manages all financial interactions within Wartime Aide and the collection
 - IT Manager
 - Board member
 
-Charlie shares the responsibility of managing the website. He manages the website and all technology. If you are having any technical issues with our website, we would be glad to put you in touch with Charlie and our tech team.
+Charlie shares the responsibility of managing the website and all information for Wartime Aide. He manages the website and all technology. If you are having any technical issues with our website, we would be glad to put you in touch with Charlie and our tech team.
 
 {{< divider >}}
 
