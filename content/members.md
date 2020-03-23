@@ -41,12 +41,12 @@ Charlie shares the responsibility of managing the website. He manages the websit
 
 {{< divider >}}
 
-{{< image src="/img/members/harper.stanton-todaro.jpg" alt="Harper Staton-Todaro" height="400px" width="300px" float="left" >}}
+{{< image src="/img/members/harper.staton.todaro.jpg" alt="Harper Staton-Todaro" height="400px" width="300px" float="left" >}}
 ## Harper Staton-Todaro
 - Chapter Manager
 - Board Member
 
-Harper Staton-Todaro is the Chapter manager for Wartime Aide. Harper primarily focuses on achieving creating lessons for each chapter as a way to prompt conversations about current refugee issues as well as give them the basic knowledge they need to help effectively understand the refugees in their community.
+Harper Staton-Todaro is the Chapter manager for Wartime Aide. Harper primarily focuses on creating lessons for each chapter as a way to prompt conversations about current refugee issues as well as give them the basic knowledge they need to help effectively understand the refugees in their community.
 
 {{< divider >}}
 
