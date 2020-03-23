@@ -41,14 +41,6 @@ Charlie shares the responsibility of managing the website. He manages the websit
 
 {{< divider >}}
 
-## Harper Staton-Todaro
-- Director of Chapters
-- Board Member
-
-Harper Staton-Todaro is the Director of Chapters for Wartime Aide. She create the curriculum for the chapter's.
-
-{{< divider >}}
-
 {{< image src="/img/members/bridgette.schaad.jpg" alt="Bridgette Schaad" height="400px" width="300px" float="left" >}}
 ## Bridgette Schaad
 - Public Relations Manager
