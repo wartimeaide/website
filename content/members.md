@@ -37,7 +37,16 @@ Savvas manages all financial interactions within Wartime Aide and the collection
 - IT Manager
 - Board member
 
-Charlie shares the responsibility of managing the website. He manages the website and all technology. If you are having any technical issues with our website, we would be glad to put you in touch with Charlie and our tech team.
+Charlie shares the responsibility of managing the website and all information for Wartime Aide. He manages the website and all technology. If you are having any technical issues with our website, we would be glad to put you in touch with Charlie and our tech team.
+
+{{< divider >}}
+
+{{< image src="/img/members/harper.staton.todaro.jpg" alt="Harper Staton-Todaro" height="400px" width="300px" float="left" >}}
+## Harper Staton-Todaro
+- Chapter Manager
+- Board Member
+
+Harper Staton-Todaro is the Chapter manager for Wartime Aide. Harper primarily focuses on creating lessons for each chapter as a way to prompt conversations about current refugee issues as well as give them the basic knowledge they need to help effectively understand the refugees in their community.
 
 {{< divider >}}
 
