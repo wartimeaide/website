@@ -28,7 +28,7 @@ Sam is committed to providing education to refugees from around the world and en
 - Clerk
 - Board member
 
-Charlie shares the responsibility helping Wartime Aide achieve its mission, filing all Wartime Aides its information, and keeping track of its finances. If you are having any technical issues with our website, we would be glad to put you in touch with Charlie and our tech team.
+Charlie is commited to helping Wartime Aide achieve its goal. Charlie aids Sam in overseeing all of Wartime Aides operations. Charlie also manages all of Wartime Aides financial information. If you have any questions regarding your donation or tax deductible, we will be glad to put you in touch with Charlie.
 
 {{< divider >}}
 
