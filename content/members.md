@@ -28,7 +28,7 @@ Sam is committed to providing education to refugees from around the world and en
 - Clerk
 - Board member
 
-Charlie shares the responsibility of managing the website and all technology for Wartime Aide. If you are having any technical issues with our website, we would be glad to put you in touch with Charlie and our tech team.
+Charlie shares the responsibility helping Wartime Aide achieve its mission, filing all Wartime Aides its information, and keeping track of its finances. If you are having any technical issues with our website, we would be glad to put you in touch with Charlie and our tech team.
 
 {{< divider >}}
 
