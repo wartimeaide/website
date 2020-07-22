@@ -17,4 +17,5 @@ This podcast is focused on educating the public about refugee issues and refugee
 
 ## Episodes
 
-{{< iframe src="https://pinecast.com/player/6c34909b-beed-49a3-afc1-5e5600b4657d?theme=flat" class="pinecast-embed" frameborder="0">}}{{< iframe src="https://pinecast.com/player/3165eef0-2cef-4640-af20-4090aec9f1ac?theme=flat" class="pinecast-embed" frameborder="0">}}
+{{< iframe src="https://pinecast.com/player/6c34909b-beed-49a3-afc1-5e5600b4657d?theme=flat" class="pinecast-embed" frameborder="0">}}
+{{< iframe src="https://pinecast.com/player/3165eef0-2cef-4640-af20-4090aec9f1ac?theme=flat" class="pinecast-embed" frameborder="0">}}
