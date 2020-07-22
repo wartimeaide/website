@@ -21,4 +21,4 @@ Wartime Aide is a non-profit organization completely run by volunteer high schoo
 
 2. Internal costs (filling fees, domain payments, fundraising projects, etc.). Without covering these costs Wartime Aide is not able to sustain itself as an organization and fulfill its mission. 
 
-3. Our Podcast! (coming soon). [Click here]({{< ref "podcast.md" >}}) for more information.
+3. Our Podcast!. [Click here]({{< ref "podcast.md" >}}) for more information.
