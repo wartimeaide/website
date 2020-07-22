@@ -23,8 +23,9 @@ Sam is committed to providing education to refugees from around the world and en
 
 {{< image src="/img/members/charles.ciampa.jpg" alt="Charles Ciampa" height="400px" width="300px" float="left" >}}
 ## Charles Ciampa
-- CIO (Chief Information Officer)
-- IT Manager
+- Vice President
+- Treasurer
+- Clerk
 - Board member
 
 Charlie shares the responsibility of managing the website and all technology for Wartime Aide. If you are having any technical issues with our website, we would be glad to put you in touch with Charlie and our tech team.
