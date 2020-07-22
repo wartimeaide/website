@@ -122,7 +122,7 @@ disqusShortname = ""
 #      url = "/donate"
 
     [[params.tiles.showcase]]
-      title = "Podcast, The Refugee Report"
+      title = "Podcast"
       subtitle = "Listen to our New Podcast"
       image = "backgrounds/8.jpg"
       url = "/podcast"
