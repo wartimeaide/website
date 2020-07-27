@@ -11,6 +11,7 @@
                 {{ range .Site.Params.Footer.quicklinks}}
                 <li>{{ .text }} <a href="{{ .url | safeHTML }}">{{ .alt }}</a></li>
                 {{ end }}
+                <li>Automated Deployment by <img src="https://api.netlify.com/api/v1/badges/7e341d68-65bf-4420-b806-ed612812cc77/deploy-status" alt="Netlify" /></li>
             </ul>
         </div>
     </footer>
