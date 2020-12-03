@@ -150,10 +150,7 @@ disqusShortname = ""
   # Section Type Two
   [params.two]
     enable = true
-    title = "Malala Yousafzai"
-    subtitle = """
-    "Let us remember: One book, one pen, one child, and one teacher can change the world."
-    """
+    title = "Donate"
     buttonText = "Donate"
     url = "/donate"
 
