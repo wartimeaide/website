@@ -34,6 +34,7 @@ Charlie is commited to helping Wartime Aide achieve its goal. Charlie aids Sam i
 
 {{< image src="/img/members/harper.staton.todaro.jpg" alt="Harper Staton-Todaro" height="400px" width="300px" float="left" >}}
 ## Harper Staton-Todaro
+- Secratary
 - Chapter Manager
 - Board Member
 
