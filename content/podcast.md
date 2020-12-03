@@ -11,7 +11,7 @@ date: 2020-03-18T17:00:00-05:00
 draft: false
 ---
 
-This podcast is focused on educating the public about refugee issues and refugee organizations. Hosted by Samuel McMorrow, you will hear about the issues facing refugees today and how you can help. You can listen to this podcast on our website below, [Spotify](https://open.spotify.com/show/2tyrhVAUv06daJI8X4mGfA), or [Apple Podcast](https://podcasts.apple.com/us/podcast/the-refugee-report/id1522715443). For up to date information on the publishing of our podcast follow us on twitter @wartimeaide.
+This podcast is focused on educating the public about refugee issues and refugee organizations. Hosted by Samuel McMorrow, you will hear about the issues facing refugees today and how you can help. You can listen to this podcast on our website below, [Spotify](https://open.spotify.com/show/2tyrhVAUv06daJI8X4mGfA), [Apple Podcast](https://podcasts.apple.com/us/podcast/the-refugee-report/id1522715443), or [Google Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9waW5lY2FzdC5jb20vZmVlZC9zZWVraW5nLXJlZnVnZS1wb2RjYXN0). For up to date information on the publishing of our podcast follow us on twitter @wartimeaide.
 
 {{< divider >}}
 
