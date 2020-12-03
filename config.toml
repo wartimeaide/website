@@ -105,7 +105,7 @@ disqusShortname = ""
     
     [[params.tiles.showcase]]
       title = "Our Mission"
-      subtitle = "Our mission is to educate high schoolers about refugee issues and to help them reach out to refugees in their community."
+      subtitle = "Our mission is to educate the the public and high schoolers about refugee issues."
       image = "backgrounds/7.jpg"
       url = "/chapter-program"
 
