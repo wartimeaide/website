@@ -23,16 +23,18 @@ Sam is committed to providing education to refugees from around the world and en
 
 {{< image src="/img/members/charles.ciampa.jpg" alt="Charles Ciampa" height="400px" width="300px" float="left" >}}
 ## Charles Ciampa
-- CIO (Chief Information Officer)
-- IT Manager
+- Vice President
+- Treasurer
+- Clerk
 - Board member
 
-Charlie shares the responsibility of managing the website and all technology for Wartime Aide. If you are having any technical issues with our website, we would be glad to put you in touch with Charlie and our tech team.
+Charlie is commited to helping Wartime Aide achieve its goal. Charlie aids Sam in overseeing all of Wartime Aides operations. Charlie also manages all of Wartime Aides financial information. If you have any questions regarding your donation or tax deductible, we will be glad to put you in touch with Charlie.
 
 {{< divider >}}
 
 {{< image src="/img/members/harper.staton.todaro.jpg" alt="Harper Staton-Todaro" height="400px" width="300px" float="left" >}}
 ## Harper Staton-Todaro
+- Secratary
 - Chapter Manager
 - Board Member
 

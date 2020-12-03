@@ -123,7 +123,7 @@ disqusShortname = ""
 
     [[params.tiles.showcase]]
       title = "Podcast"
-      subtitle = "Our podcast is comming soon!"
+      subtitle = "Listen to our New Podcast"
       image = "backgrounds/8.jpg"
       url = "/podcast"
 
@@ -150,10 +150,7 @@ disqusShortname = ""
   # Section Type Two
   [params.two]
     enable = true
-    title = "Malala Yousafzai"
-    subtitle = """
-    "Let us remember: One book, one pen, one child, and one teacher can change the world."
-    """
+    title = "Donate"
     buttonText = "Donate"
     url = "/donate"
 
