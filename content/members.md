@@ -21,7 +21,7 @@ Sam is committed to providing education to refugees from around the world and en
 
 {{< divider >}}
 
-{{< image src="/img/members/charles.ciampa.jpg" alt="Charles Ciampa" height="400px" width="300px" float="left" >}}
+{{< image src="/img/members/charles.ciampa.webp" alt="Charles Ciampa" height="400px" width="300px" float="left" >}}
 ## Charles Ciampa
 - Vice President
 - Treasurer
