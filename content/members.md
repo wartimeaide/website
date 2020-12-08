@@ -10,7 +10,7 @@ date: 2020-03-18T17:00:00-05:00
 draft: false
 ---
 
-{{< image src="/img/members/samuel.mcmorrow.jpg" alt="Samuel McMorrow" height="400px" width="300px" float="left" >}}
+{{< image src="/img/members/samuel.mcmorrow.webp" alt="Samuel McMorrow" height="400px" width="300px" float="left" >}}
 ## Samuel McMorrow
 - President
 - Founder
