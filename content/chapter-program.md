@@ -2,7 +2,7 @@
 title: "Chapter Program"
 description: "This program allows our chapters to become more empathetic towards the issues facing refugees and allows them to put this newfound understanding into action."
 slug: "chapter-program"
-image: backgrounds/7.jpg
+image: backgrounds/7.webp
 keywords: ""
 categories: 
     - ""
