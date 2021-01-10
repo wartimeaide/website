@@ -2579,6 +2579,7 @@ button.donate,
   border-bottom: none;
   display: block;
   height: calc(max(15vw, 96px));
+  width: 100%;
   line-height: calc(max(15vw, 96px));
   font-size: calc(36px + (32 - 18) * ((100vw - 300px) / (1600 - 300)));
   background: #5054c8;
@@ -2599,8 +2600,8 @@ input[type=reset].donate:hover,
 input[type=button].donate:hover,
 button.donate:hover,
 .button.donate:hover {
-  text-shadow: 0 0 5px black, 0 0 10px black;
   box-shadow: 0 0 30px #5054c8;
+  text-shadow: 0 0 20px black, 0 0 35px black;
   filter: saturate(0.75);
 }
 input[type=submit].donate:active,
@@ -2608,6 +2609,8 @@ input[type=reset].donate:active,
 input[type=button].donate:active,
 button.donate:active,
 .button.donate:active {
+  box-shadow: 0 0 10px rgba(80, 84, 200, 0.8);
+  text-shadow: 0 0 10px black, 0 0 25px black;
   filter: saturate(0.95);
 }
 input[type=submit].donate::after,
@@ -2623,7 +2626,7 @@ button.donate::after,
   transition: all 475ms cubic-bezier(0.25, 1, 0.5, 1);
   letter-spacing: 0;
   position: absolute;
-  right: -0.6em;
+  right: -0.4em;
   bottom: -3px;
   transform: scaleX(0.8);
   transform-origin: left center;
@@ -2636,6 +2639,15 @@ button.donate:hover::after,
   opacity: 1;
   text-shadow: 0 0 5px black;
   transform: scaleX(1) scaleY(1.1);
+}
+input[type=submit].donate:active::after,
+input[type=reset].donate:active::after,
+input[type=button].donate:active::after,
+button.donate:active::after,
+.button.donate:active::after {
+  opacity: 1;
+  text-shadow: 0 0 3px rgba(0, 0, 0, 0.9);
+  transform: scaleX(1.2) scaleY(1.1);
 }
 input[type=submit].disabled, input[type=submit]:disabled,
 input[type=reset].disabled,

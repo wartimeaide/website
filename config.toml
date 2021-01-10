@@ -154,7 +154,6 @@ disqusShortname = ""
     buttonText = "Donate"
     url = "/donate"
 
-
   # Contact section
   [params.contact]
     enable = true
@@ -226,3 +225,7 @@ disqusShortname = ""
       text = "Design: "
       url= "https://www.html5up.net"
       alt = "HTML5 UP"
+    [[params.footer.quicklinks]]
+      text = "Powered By: "
+      url= "https://www.netlify.com"
+      alt = "Netlify"
