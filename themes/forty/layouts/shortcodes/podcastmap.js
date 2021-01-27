@@ -33,7 +33,7 @@ for (const [regionCode, regionPodcasts] of Object.entries(podcastsByRegion)) {
 </li>`,
     ""
   )
-  const capital = region.demographics.name.capital || ["(Unknown)"]
+  const capital = region.demographics.capital || ["(Unknown)"]
   const cca3 = region.demographics.cca3 ? ` (${region.demographics.cca3})` : ""
   L.geoJSON(region.outline)
     .bindPopup(

@@ -139,7 +139,7 @@
     var podcastList = regionPodcasts.reduce(function (prev, curr) {
       return prev += "<li>".concat(curr.title, ":\n<iframe src=\"").concat(pinecast.base).concat(curr.pinecast, "?theme=minimal\" class=\"podcast-frame\" height=\"60\" width=\"410\"></iframe>\n</li>");
     }, "");
-    var capital = region.demographics.name.capital || ["(Unknown)"];
+    var capital = region.demographics.capital || ["(Unknown)"];
     var cca3 = region.demographics.cca3 ? " (".concat(region.demographics.cca3, ")") : "";
     L.geoJSON(region.outline).bindPopup(L.popup({
       maxWidth: 450,
