@@ -1,0 +1,15 @@
+{
+  "name": "wartime-aide-tools",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simple tools for creating dataset used in website",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Galvin Gao",
+  "license": "MIT",
+  "devDependencies": {
+    "axios": "^0.21.1"
+  }
+}

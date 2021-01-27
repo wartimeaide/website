@@ -1,7 +1,7 @@
 // initialize Leaflet
 let map = L.map('podcastmap', {
   minZoom: 2,
-  maxZoom: 4,
+  maxZoom: 5,
   gestureHandling: true
 }).setView({lon: 0, lat: 0}, 2);
 
@@ -33,13 +33,16 @@ for (const [regionCode, regionPodcasts] of Object.entries(podcastsByRegion)) {
 </li>`,
     ""
   )
+  const capital = region.demographics.name.capital || ["(Unknown)"]
+  const cca3 = region.demographics.cca3 ? ` (${region.demographics.cca3})` : ""
   L.geoJSON(region.outline)
     .bindPopup(
       L.popup({
         maxWidth: 450,
-
+        closeOnClick: false
       })
-        .setContent(`<h1>${region.demographics.name.common}</h1><h2>Demographics</h2><ul>
+        .setContent(`<h1>${region.demographics.flag} ${region.demographics.name.common}${cca3}</h1><h2>Demographics</h2><ul>
+            <li>Capital: ${capital.join(', ')}</li>
             <li>Official Name: ${region.demographics.name.official}</li>
             <li>Area: ${region.demographics.area}km²</li>
             </ul><h2>Podcasts</h2><ul>${podcastList}</ul>`)
