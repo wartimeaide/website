@@ -18,7 +18,7 @@ This podcast is focused on educating the public about refugee issues and refugee
 ## Browse Podcasts
 
 ### Featured
-{{< iframe src="https://pinecast.com/player/9cf52a61-2815-4974-be22-220af067df07?theme=minimal" class="pinecast-embed" frameborder="0">}}
+{{< iframe src="https://pinecast.com/embed/player_playlist/seeking-refuge-podcast?color.primary=%23ffffff&amp;color.secondary=%23cbd3da&amp;color.accent=%230066ffhu" class="pinecast-embed" frameborder="0">}}
 
 ### Categorized by Interviewers' Location
 
