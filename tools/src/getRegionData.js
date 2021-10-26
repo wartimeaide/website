@@ -1,12 +1,16 @@
 const axios = require('axios')
 const fs = require('fs')
-const namesToFind = ["Venezuela", "Ukraine", "Afghanistan", "Sudan", "South Sudan", "Myanmar", "Yemen", "Belize", "Costa Rica", "El Salvador", "Guatemala", "Honduras", "Nicaragua", "Panama"]
+const namesToFind = ["Venezuela", "Ukraine", "Afghanistan", "Sudan", "South Sudan", "Myanmar", "Yemen", "Belize", "Costa Rica", "El Salvador", "Guatemala", "Honduras", "Nicaragua", "Panama", "North Korea", "Iraq", "DR Congo", "Tibet", "Nigeria", "Niger", "Chad", "Cameroon", "Syria"]
 
 async function get() {
   const result = {}
   const {data: regions} = await axios.get("https://raw.githubusercontent.com/mledoze/countries/master/dist/countries.json")
   for (const name of namesToFind) {
     const region = regions.find(el => el.name.common === name)
+    if (!region) {
+      console.log('failed to find region for name', name)
+      continue
+    }
     delete region.name.native
     delete region.translations
     delete region.currencies
