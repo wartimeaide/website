@@ -21,7 +21,7 @@ disqusShortname = ""
 
   # Provide your metadata here.
   name = "Wartime Aide"
-  description = "Wartime Aide is a high school student-run Massachusetts charity focused on educating high schoolers about refugee issues."
+  description = "Wartime Aide is a student-run Massachusetts charity focused on educating people about refugee issues."
 
   # Link custom assets relative to /static
   custom_css = []
@@ -94,7 +94,7 @@ disqusShortname = ""
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
     title = "Wartime Aide"
-    subtitle = "Wartime Aide is a high school student-run Massachusetts charity focused on educating high schoolers about refugee issues."
+    subtitle = "Wartime Aide is a student-run Massachusetts charity focused on educating people about refugee issues."
     buttonText = "Get Started"
 
 
