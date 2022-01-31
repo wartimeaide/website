@@ -17,4 +17,4 @@ Wartime Aide chapters follow a three-step process:
 2. Reach out to teenage refugees coming to their school and their community in order to build a peer-support network.
 3. To raise funds on behalf of Wartime Aide.
 
-If you are interested in starting a Wartime Aide chapter at your school please let us know by filling out the contact form below. For more information about our chapter program [click here]({{< ref "chapter-program.md" >}}). 
+If you are interested in starting a Wartime Aide chapter at your school please let us know by filling out the contact form below. For more information about our chapter program [click here]({{< ref "mission.md" >}}). 
