@@ -125,7 +125,7 @@ disqusShortname = ""
 
     [[params.tiles.showcase]]
         title = "Join Us"
-        subtitle = "Learn how to start a Wartime Aide chapter"
+        subtitle = "Join the team"
         image = "backgrounds/5.jpg"
         url = "/join-us"
 
@@ -179,12 +179,6 @@ disqusShortname = ""
 #    [[params.contact.phone]]
 #    title = "Phone"
 #    phone = "(000) 000-0000 x1234"
-
-    [[params.contact.address]]
-        title = "Address"
-        street = "247 Marlborough Street"
-        city = "Boston, MA 02459"
-        country = "U.S.A."
 
   # Footer section
   [params.footer]
