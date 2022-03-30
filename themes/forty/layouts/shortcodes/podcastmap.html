@@ -189,6 +189,6 @@
     L.geoJSON(region.outline).bindPopup(L.popup({
       maxWidth: 450,
       closeOnClick: false
-    }).setContent("<h1>".concat(region.demographics.flag, " ").concat(region.demographics.name.common).concat(cca3, "</h1><h2>Demographics</h2><ul>\n            <li>Capital: ").concat(capital.join(', '), "</li>\n            <li>Official Name: ").concat(region.demographics.name.official, "</li>\n            <li>Area: ").concat(region.demographics.area, "km\xB2</li>\n            </ul><h2>Podcasts</h2><ul>").concat(podcastList, "</ul>"))).bindTooltip(region.demographics.name.common).addTo(map);
+    }).setContent(`<h1>${region.demographics.flag} ${region.demographics.name.common}${cca3}</h1><h2>Demographics</h2><ul><li>Capital: ${captial.join(', ')}</li>\n<li>Official Name: ${region.demographics.name.official}</li>\n<li>Area: ${region.demographics.area}km\xB2</li>\n</ul><h2>Podcasts</h2><ul>${podcastList}</ul>`)).bindTooltip(region.demographics.name.common).addTo(map);
   }
 </script>
