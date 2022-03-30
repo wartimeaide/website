@@ -182,13 +182,13 @@
     var region = regions[regionCode];
     !region && console.warn("no geojson path for region", regionCode, "has found in local db");
     var podcastList = regionPodcasts.reduce(function (prev, curr) {
-      return prev += "<li>".concat(curr.title, ":\n<iframe src=\"").concat(pinecast.base).concat(curr.pinecast, "?theme=minimal\" class=\"podcast-frame\" height=\"60\" width=\"410\"></iframe>\n</li>");
+      return prev += `<li>${curr.title}:\n<iframe src="${pinecast.base}${curr.pinecast}?theme=minimal" class="podcast-frame" height="60" width="410"></iframe>\n</li>`;
     }, "");
     var capital = region.demographics.capital || ["(Unknown)"];
     var cca3 = region.demographics.cca3 ? " (".concat(region.demographics.cca3, ")") : "";
     L.geoJSON(region.outline).bindPopup(L.popup({
       maxWidth: 450,
       closeOnClick: false
-    }).setContent(`<h1>${region.demographics.flag} ${region.demographics.name.common}${cca3}</h1><h2>Demographics</h2><ul><li>Capital: ${captial.join(', ')}</li>\n<li>Official Name: ${region.demographics.name.official}</li>\n<li>Area: ${region.demographics.area}km\xB2</li>\n</ul><h2>Podcasts</h2><ul>${podcastList}</ul>`)).bindTooltip(region.demographics.name.common).addTo(map);
+    }).setContent(`<h1>${region.demographics.flag} ${region.demographics.name.common}${cca3}</h1><h2>Demographics</h2><ul><li>Capital: ${capital.join(', ')}</li>\n<li>Official Name: ${region.demographics.name.official}</li>\n<li>Area: ${region.demographics.area}km\xB2</li>\n</ul><h2>Podcasts</h2><ul>${podcastList}</ul>`)).bindTooltip(region.demographics.name.common).addTo(map);
   }
 </script>
