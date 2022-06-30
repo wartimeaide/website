@@ -5,11 +5,19 @@
   "description": "Simple tools for creating dataset used in website",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "esno src/index.js"
   },
   "author": "Galvin Gao",
   "license": "MIT",
   "devDependencies": {
     "axios": "^0.21.2"
+  },
+  "dependencies": {
+    "@babel/core": "^7.18.6",
+    "@babel/preset-env": "^7.18.6",
+    "esno": "^0.16.3",
+    "jsdom": "^20.0.0",
+    "simplify-geojson": "^1.0.5"
   }
 }

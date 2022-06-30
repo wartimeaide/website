@@ -41,11 +41,14 @@ for (const [regionCode, regionPodcasts] of Object.entries(podcastsByRegion)) {
         maxWidth: 450,
         closeOnClick: false
       })
-        .setContent(`<h1>${region.demographics.flag} ${region.demographics.name.common}${cca3}</h1><h2>Demographics</h2><ul>
-            <li>Capital: ${capital.join(', ')}</li>
-            <li>Official Name: ${region.demographics.name.official}</li>
-            <li>Area: ${region.demographics.area}km²</li>
-            </ul><h2>Podcasts</h2><ul>${podcastList}</ul>`)
+        .setContent(`<h1>${region.demographics.flag} ${region.demographics.name.common}${cca3}</h1><h2>Demographics</h2>
+        <ul>
+          <li>Capital: ${capital.join(', ')}</li>
+          <li>Official Name: ${region.demographics.name.official}</li>
+          <li>Area: ${region.demographics.area}km²</li>
+        </ul>
+        <h2>Podcasts</h2>
+        <ul>${podcastList}</ul>`)
 
     )
     .bindTooltip(region.demographics.name.common)
